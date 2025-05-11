@@ -1,6 +1,6 @@
 //special syntax to work with promises
 // we can make any function async, and make a promise await in that fucntion
-//async fucntion always returns a promise, amd sure promise wraps non promises
+//async fucntion always returns a promise, and make sure promise wraps non promises
 
 
 async function harry(){
